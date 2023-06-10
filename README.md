@@ -14,7 +14,7 @@ Visão Tecnica do que encontrará aqui:
 - ANIMAÇŌES
 
 ### 01 ⬇️
-<img src="" >
+<img src="https://raw.githubusercontent.com/techjuliana/reels-animacoes-css/master/01-tech.juliana-reels/view.png" >
 
 
 ## Tech Juliana
